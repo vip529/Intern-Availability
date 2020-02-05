@@ -1,10 +1,15 @@
 {
+  "homepage": "http://availableintern.rf.gd",
   "name": "intern_availability",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "font-awesome": "^4.7.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-google-charts": "^3.0.15",
     "react-scripts": "3.2.0"
   },
   "scripts": {

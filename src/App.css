@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+.fa .fa-square{
+  color: white;
+  border: solid 1px back;
+}
+
+.text-center {
+ text-align: start; 
+}
